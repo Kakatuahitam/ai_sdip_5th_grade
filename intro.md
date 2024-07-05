@@ -12,16 +12,16 @@ kernelspec:
   name: python3
 ---
 
-# Artificial Intelligence for 3rd Grade
+# Artificial Intelligence for 5th Grade
 
-```{image} _static/images/Cover_3rd Grade.png
+```{image} _static/images/Cover_5th Grade.png
 :alt: Cover Page
 :align: center
 ```
 
 Assalamu'alaikum warahmatullah wabarakatuh!
 
-Hello our dearest students, welcome to our Artificial Intelligence E-Module for 3rd Grade! Here we encourage you to be eagerly wanting to know everything on this E-Module. This E-Module is enriched with interactive materials such as ({u}`hidden gem`) attractive instruction accompanied with our 5 characters whose are cute and clever.
+Hello our dearest students, welcome to our Artificial Intelligence E-Module for 5th Grade! Here we encourage you to be eagerly wanting to know everything on this E-Module. This E-Module is enriched with interactive materials such as ({u}`hidden gem`) attractive instruction accompanied with our 5 characters whose are cute and clever.
 
 These are our AI Character that will guide our learning:
 
