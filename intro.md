@@ -12,7 +12,7 @@ kernelspec:
   name: python3
 ---
 
-# Artificial Intelligence for 5th Grade
+# Coding for 5th Grade
 
 ```{image} _static/images/Cover_5th Grade.png
 :alt: Cover Page
