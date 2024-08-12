@@ -21,7 +21,7 @@ parts:
     # Events and Motion
     - file: content/03_move_your_body_1
     # Looks and Sound
-    - file: content/04_crash_into_wall
+    - file: content/04_asking_the_user
     # Sensing
     - file: content/05_sts
     # Simple maze program
