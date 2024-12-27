@@ -11,6 +11,8 @@ project:
       affiliations:
         - SD Islam Pembangunan
   github: https://github.com/Kakatuahitam/ai_sdip_5th_grade
+  references:
+    common: http://localhost:3000
   # bibliography: []
 site:
   template: book-theme
